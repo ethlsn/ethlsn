@@ -3,7 +3,7 @@
 
 ## Awarded to **Eric Theloesen**
 
-![Course Image](../badges/dlt_ELT_specialist.png)
+![Course Image](https://github.com/dlt-hub/dlt-certificates/blob/main/certificates/badges/dlt_ELT_specialist.png)
 
 ### Certificate Details
 - **Certificate ID**: `34fab64fab74d978dd2a47fd24b6c5b10ddc34241115840373cc3995f3a6a4b6`
