@@ -1,3 +1,13 @@
+> [!WARNING]
+> Theory is when you know everything but nothing works.
+> 
+> Practice is when everything works but no one knows why.
+> 
+> In am theory and practice are combined. Nothing works and no I don't know why.
+
+> [!CAUTION]
+> Generally I am someone who does precision guesswork based on unreliable data provided by those of questionable knowledge.
+
 - 👋 Hi, I’m @ethlsn
 - 👀 I’m interested in Data & Analytics Engineering, Data Science, Artificial Intelligence and Digital  Innovations
 - 🌱 I’m currently learning more about Data & Analytics Engineering
