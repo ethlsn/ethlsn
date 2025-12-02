@@ -3,10 +3,10 @@
 > 
 > Practice is when everything works but no one knows why.
 > 
-> In am theory and practice are combined. Nothing works and no I don't know why.
+> I am theory and practice combined. Nothing works and I do not know why.
 
 > [!CAUTION]
-> Generally I am someone who does precision guesswork based on unreliable data provided by those of questionable knowledge.
+> In my work I do precision guesswork based on unreliable data provided by those of questionable knowledge.
 
 - 👋 Hi, I’m @ethlsn
 - 👀 I’m interested in Data & Analytics Engineering, Data Science, Artificial Intelligence and Digital  Innovations
