@@ -9,7 +9,8 @@
 > In my work I do precision guesswork based on unreliable data provided by those of questionable knowledge.
 
 - 👋 Hi, I’m @ethlsn
-- 👀 I’m interested in Data & Analytics Engineering, Data Science, Artificial Intelligence and Digital  Innovations
+- 🎲 In my work I do precision guesswork based on unreliable data provided by those of questionable knowledge
+- 👀 I’m interested in Data & Analytics Engineering, Data Science, Artificial Intelligence and Digital Innovations
 - 🌱 I’m currently learning more about Data & Analytics Engineering
 
 <!---
